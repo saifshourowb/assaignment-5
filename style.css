@@ -1,0 +1,41 @@
+ /* style form :start form here  */
+body{
+    background-color: rgb(231, 226, 226);
+}
+#image{
+    width: 122%;
+    
+}
+#lebel-1{
+    margin-left: 97px;
+}
+#lebel-2{
+ margin-left: 115px;
+}
+#lebel-3{
+ margin-left: 117px;
+ margin-top: 10px;
+ }
+ #lebel-4{
+margin-left: 97px;
+margin-top: 10px;
+ }
+ #lebel-5{
+margin-left: 100px;
+margin-top: 10px;
+
+ }
+ #button{
+     margin-left: 170px;
+     margin-top: 15px;
+     padding: 8px 50px;
+     
+ }
+
+ #lili{
+     width: 65px;
+     text-align: center;
+ }
+ /* style end form here   */
+
+
